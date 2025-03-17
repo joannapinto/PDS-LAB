@@ -44,3 +44,23 @@ Questions:
 
 8.How are basic matrix operations performed?
 
+9.How can arrays with zeros, ones, and random numbers be created in Numpy?
+
+10.How can the shape of a Numpy array be changed?
+
+11.How are element-wise addition, subtraction, multiplication, and division performed in Numpy?
+
+12.How is a Pandas DataFrame created from a dictionary or a list of lists?
+
+13.How can rows in a DataFrame be filtered based on conditions?
+
+14.How can new columns be added or existing columns be removed in a DataFrame?
+
+15.How is the transpose of a matrix calculated using Numpy?
+
+16.How can a system of linear equations be solved using Numpy?
+
+17.How is the inverse of a matrix calculated in Numpy?
+
+18.How can a Numpy array be converted into a Pandas DataFrame?
+
